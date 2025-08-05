@@ -21,11 +21,11 @@
 ![notion](https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff) ![figma](https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff)-->
 
 <table>
-    <td>
-        <h5> Stats </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" width="100%" />
+    <td width="100%">
+        <h5>Stats</h5>
+        <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" align=center/>
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" align=center/>
     </td>
 </table>
 <!-- ![Hendra Adi Saputra](https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite)
