@@ -1,11 +1,11 @@
-# <td width="20px"></td> Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%"/> <td width="20px"></td>
+# Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%"/>
 
 #### Web Developer | Designer Graphic | Designer 3D
 
 <hr>
 <table>
   <tr>
-    <td width="80%">      
+    <td width="80%" align=left>      
         <h2>Skills</h2>
         <img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" height="100%"/>
         <img src="https://img.shields.io/badge/CSS-gray?logo=css&logoColor=ffffff" height="100%"/>
@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff" height="100%"/>
         <img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" height="100%"/>
     </td>
-    <td width="20%" align="right">
+    <td width="20%" align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmMDIzdG9wYmFxOWk1M2poZTRocW9wNmtsejEzeDk3emthdHMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="90%" />
     </td>
   </tr>
@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="45%" align="left">
+    <td width="45%" align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXJkODdpMWEzeHoweTJkNXF2Z2E0YnpwenR1NHNnZWRyYmcxZG0zaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/ejBA3EywiDEmtbSxWO/giphy.gif" width="80%" />
     </td>
     <td width="55%">
