@@ -1,4 +1,4 @@
-# Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%" />
+# <td width="20px"></td> Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%"/> <td width="20px"></td>
 
 <h3>Web Developer | Designer Graphic | Designer 3D</h3>
 <hr>
@@ -23,6 +23,16 @@
 ![notion](https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff) ![figma](https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff)-->
 
 <table>
+  <tr>
+    <td>
+      <h2>Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" width="400px"/><br/>
+      <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" width="400px"/>
+    </td>
+  </tr>
+</table>
+
+<!-- <table>
     <tr>
         <td width="100%" height="100%">
             <h2>Stats</h2>
@@ -31,7 +41,7 @@
             <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" align=center height="100%"/>
         </td>
     </tr>
-</table>
+</table> -->
 <!-- ![Hendra Adi Saputra](https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite)](https://git.io/streak-stats) -->
 
