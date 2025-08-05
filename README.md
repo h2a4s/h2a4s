@@ -1,14 +1,16 @@
-### Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="8%" height="8%" />
+## Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%" />
 
+<h4>Web Developer | Designer Graphic | Designer 3D</h4>
+<hr>
 <table>
   <tr>
     <td width="60%">      
-<h5>Skills</h5>
-<img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/CSS-gray?logo=css&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" />
+<h3>Skills</h3>
+<img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" height="100%"/>
+<img src="https://img.shields.io/badge/CSS-gray?logo=css&logoColor=ffffff" height="100%"/>
+<img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=ffffff" height="100%"/>
+<img src="https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff" height="100%"/>
+<img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" height="100%"/>
     </td>
     <td width="40%" align="right">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmMDIzdG9wYmFxOWk1M2poZTRocW9wNmtsejEzeDk3emthdHMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="100%" />
@@ -22,7 +24,7 @@
 
 <table>
     <td width="100%">
-        <h5>Stats</h5>
+        <h3>Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" align=center/>
         <br/>
         <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" align=center/>
@@ -40,26 +42,26 @@
     </td>
     <td width="60%">
       
-<h5>Social Media</h5>
+<h3>Social Media</h3>
 
 <a href="https://www.instagram.com/h2_a4s/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=000000" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=000000" alt="Instagram" height="100%"/>
 </a>
 <a href="https://www.tiktok.com/@h2_a4s" target="_blank">
-  <img src="https://img.shields.io/badge/Tiktok-white?logo=tiktok&logoColor=000000" alt="Tiktok"/>
+  <img src="https://img.shields.io/badge/Tiktok-white?logo=tiktok&logoColor=000000" alt="Tiktok" height="100%"/>
 </a>
 <a href="https://www.linkedin.com/in/hendra-adi-saputra-045624365" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-white?logo=logmein&logoColor=000000" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-white?logo=logmein&logoColor=000000" alt="LinkedIn" height="100%"/>
 </a>
 <a href="https://github.com/h2a4s" target="_blank">
-  <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="Github"/>
+  <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="Github" height="100%"/>
 </a>
 <a href="https://www.behance.net/search/projects/jurnal?tracking_source=typeahead_search_direct" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=000000" alt="Behance"/>
+  <img src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=000000" alt="Behance" height="100%"/>
 </a>
     </td>
   </tr>
 </table>
-
+<hr>
 <!-- ##### Social Media
 [![instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=000000)](https://www.instagram.com/h2_a4s/) [![tiktok](https://img.shields.io/badge/Tiktok-white?logo=tiktok&logoColor=000000)](https://www.tiktok.com/@h2_a4s) [![linkedin](https://img.shields.io/badge/LinkedIn-white?logo=logmein&logoColor=000000)](https://www.linkedin.com/in/hendra-adi-saputra-045624365) [![github](https://img.shields.io/badge/Github-white?logo=github&logoColor=000000)](https://github.com/h2a4s) [![behance](https://img.shields.io/badge/Behance-white?logo=behance&logoColor=000000)](https://www.behance.net/search/projects/jurnal?tracking_source=typeahead_search_direct) -->
