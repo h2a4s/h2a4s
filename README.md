@@ -6,11 +6,11 @@
   <tr>
     <td width="60%">      
         <h2>Skills</h2>
-            <img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" height="30px"/>
-            <img src="https://img.shields.io/badge/CSS-gray?logo=css&logoColor=ffffff" height="30px"/>
-            <img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=ffffff" height="30px"/>
-            <img src="https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff" height="30px"/>
-            <img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" height="30px"/>
+            <img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" height="80px"/>
+            <img src="https://img.shields.io/badge/CSS-gray?logo=css&logoColor=ffffff" height="80px"/>
+            <img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=ffffff" height="80px"/>
+            <img src="https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff" height="80px"/>
+            <img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" height="80px"/>
     </td>
     <td width="40%" align="right">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmMDIzdG9wYmFxOWk1M2poZTRocW9wNmtsejEzeDk3emthdHMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="100%" />
@@ -23,12 +23,14 @@
 ![notion](https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=ffffff) ![figma](https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff)-->
 
 <table>
-    <td width="100%" height="100%">
-        <h2>Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" align=center/>
-        <br/>
-        <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" align=center/>
-    </td>
+    <tr>
+        <td width="100%" height="100%">
+            <h2>Stats</h2>
+            <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" align=center/ height="100%">
+            <br/>
+            <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" align=center height="100%"/>
+        </td>
+    </tr>
 </table>
 <!-- ![Hendra Adi Saputra](https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite)](https://git.io/streak-stats) -->
