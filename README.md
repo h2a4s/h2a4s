@@ -1,6 +1,6 @@
 # Hi, I'm **Hendra Adi Saputra** <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjAxZXNnMDlocm5qaHhoODd5OTV1czZ2OXVxbmVranV6c2R6cTgyYiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/HA3aHOSQk3374f5i9B/giphy.gif" width="5%" height="5%"/>
 
-#### Web Developer | Graphic Designer | Brand Designer
+#### Mathematics Student | Data Scientist | Web Developer
 
 <hr>
 <table>
