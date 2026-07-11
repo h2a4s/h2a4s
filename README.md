@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=ffffff" height="100%"/>
     </td>
     <td width="20%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmMDIzdG9wYmFxOWk1M2poZTRocW9wNmtsejEzeDk3emthdHMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="90%" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmMDIzdG9wYmFxOWk1M2poZTRocW9wNmtsejEzeDk3emthdHMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
