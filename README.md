@@ -30,7 +30,6 @@
     </td>
     <td width="55%">
       <h2>Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=h2a4s&show_icons=true&theme=graywhite" width="100%"/><br/>
       <img src="https://streak-stats.demolab.com/?user=h2a4s&theme=graywhite" width="100%"/>
     </td>
   </tr>
