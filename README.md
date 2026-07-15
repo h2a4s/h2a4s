@@ -4,7 +4,7 @@
 
 <hr>
 <table>
-  <tr>
+  <tr width="100%">
     <td width="80%" align=left>      
         <h2>Skills</h2>
         <img src="https://img.shields.io/badge/HTML-gray?logo=html5&logoColor=ffffff" height="100%"/>
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="45%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXJkODdpMWEzeHoweTJkNXF2Z2E0YnpwenR1NHNnZWRyYmcxZG0zaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/ejBA3EywiDEmtbSxWO/giphy.gif" width="80%" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXJkODdpMWEzeHoweTJkNXF2Z2E0YnpwenR1NHNnZWRyYmcxZG0zaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/ejBA3EywiDEmtbSxWO/giphy.gif" width="100%" />
     </td>
     <td width="55%">
       <h2>Stats</h2>
